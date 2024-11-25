@@ -1,0 +1,17 @@
+{
+    "DevConfig":{
+        "service":{
+            "host":"localhost",
+            "port":3000
+        },
+    "db":{
+        "host":"localhost",
+        "name":"maps",
+            "port":2424,
+            "user":"root",
+            "password":"22ti002jo",
+            "rootUser":"root",
+            "rootPassword":"22ti002jo"
+    }
+}
+}
